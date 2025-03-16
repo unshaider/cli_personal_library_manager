@@ -25,10 +25,6 @@ A command-line application for managing your personal library of books, articles
     uv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
-4. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
