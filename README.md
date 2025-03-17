@@ -23,7 +23,8 @@ A command-line application for managing your personal library of books, articles
 3. (Optional) Set up a virtual environment:
     ```bash
     uv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # for macos
+    venv\Scripts\activate # for windows
     ```
 
 ## Usage
